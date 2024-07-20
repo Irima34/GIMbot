@@ -1,0 +1,602 @@
+{"level":30,"time":1720952107206,"pid":1965,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720952107916,"pid":1965,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/kuromoji.js is using deprecated documentation syntax"}
+{"level":30,"time":1720952107939,"pid":1965,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{
+  word_id: 120,
+  word_type: 'UNKNOWN',
+  word_position: 1,
+  surface_form: 'o',
+  pos: '名詞',
+  pos_detail_1: '固有名詞',
+  pos_detail_2: '組織',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: '*'
+}
+{"level":30,"time":1720952260519,"pid":2239,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720952260581,"pid":2239,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/kuromoji.js is using deprecated documentation syntax"}
+{"level":30,"time":1720952260599,"pid":2239,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{
+  word_id: 71500,
+  word_type: 'KNOWN',
+  word_position: 1,
+  surface_form: 'ど',
+  pos: '接頭詞',
+  pos_detail_1: '名詞接続',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'ど',
+  reading: 'ド',
+  pronunciation: 'ド'
+}
+{
+  word_id: 120,
+  word_type: 'UNKNOWN',
+  word_position: 2,
+  surface_form: 'a',
+  pos: '名詞',
+  pos_detail_1: '固有名詞',
+  pos_detail_2: '組織',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: '*'
+}
+{"level":30,"time":1720952285618,"pid":2291,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720952285688,"pid":2291,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/kuromoji.js is using deprecated documentation syntax"}
+{"level":30,"time":1720952285705,"pid":2291,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{
+  word_id: 13670,
+  word_type: 'KNOWN',
+  word_position: 1,
+  surface_form: 'あ',
+  pos: 'フィラー',
+  pos_detail_1: '*',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'あ',
+  reading: 'ア',
+  pronunciation: 'ア'
+}
+{
+  word_id: 3811220,
+  word_type: 'KNOWN',
+  word_position: 1,
+  surface_form: '出る',
+  pos: '動詞',
+  pos_detail_1: '自立',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '一段',
+  conjugated_form: '基本形',
+  basic_form: '出る',
+  reading: 'デル',
+  pronunciation: 'デル'
+}
+{
+  word_id: 126270,
+  word_type: 'KNOWN',
+  word_position: 1,
+  surface_form: '今日',
+  pos: '名詞',
+  pos_detail_1: '副詞可能',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: '今日',
+  reading: 'キョウ',
+  pronunciation: 'キョー'
+}
+{
+  word_id: 90,
+  word_type: 'UNKNOWN',
+  word_position: 3,
+  surface_form: '7',
+  pos: '名詞',
+  pos_detail_1: '数',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: '*'
+}
+{
+  word_id: 92030,
+  word_type: 'KNOWN',
+  word_position: 4,
+  surface_form: 'に',
+  pos: '助詞',
+  pos_detail_1: '格助詞',
+  pos_detail_2: '一般',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'に',
+  reading: 'ニ',
+  pronunciation: 'ニ'
+}
+{
+  word_id: 3011770,
+  word_type: 'KNOWN',
+  word_position: 5,
+  surface_form: 'しよ',
+  pos: '動詞',
+  pos_detail_1: '自立',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: 'サ変・スル',
+  conjugated_form: '未然ウ接続',
+  basic_form: 'する',
+  reading: 'シヨ',
+  pronunciation: 'シヨ'
+}
+{
+  word_id: 23650,
+  word_type: 'KNOWN',
+  word_position: 7,
+  surface_form: 'う',
+  pos: '助動詞',
+  pos_detail_1: '*',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '不変化型',
+  conjugated_form: '基本形',
+  basic_form: 'う',
+  reading: 'ウ',
+  pronunciation: 'ウ'
+}
+{
+  word_id: 92700,
+  word_type: 'KNOWN',
+  word_position: 8,
+  surface_form: 'か',
+  pos: '助詞',
+  pos_detail_1: '副助詞／並立助詞／終助詞',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'か',
+  reading: 'カ',
+  pronunciation: 'カ'
+}
+{"level":30,"time":1720952343067,"pid":2391,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720952343217,"pid":2391,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/kuromoji.js is using deprecated documentation syntax"}
+{"level":30,"time":1720952343239,"pid":2391,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1720952384566,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720952385117,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/kuromoji.js is using deprecated documentation syntax"}
+{"level":30,"time":1720952385140,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{
+  word_id: 1532310,
+  word_type: 'KNOWN',
+  word_position: 1,
+  surface_form: '人生',
+  pos: '名詞',
+  pos_detail_1: '一般',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: '人生',
+  reading: 'ジンセイ',
+  pronunciation: 'ジンセイ'
+}
+{
+  word_id: 13670,
+  word_type: 'KNOWN',
+  word_position: 1,
+  surface_form: 'あ',
+  pos: 'フィラー',
+  pos_detail_1: '*',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'あ',
+  reading: 'ア',
+  pronunciation: 'ア'
+}
+{
+  word_id: 126270,
+  word_type: 'KNOWN',
+  word_position: 1,
+  surface_form: '今日',
+  pos: '名詞',
+  pos_detail_1: '副詞可能',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: '今日',
+  reading: 'キョウ',
+  pronunciation: 'キョー'
+}
+{
+  word_id: 93010,
+  word_type: 'KNOWN',
+  word_position: 3,
+  surface_form: 'は',
+  pos: '助詞',
+  pos_detail_1: '係助詞',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'は',
+  reading: 'ハ',
+  pronunciation: 'ワ'
+}
+{
+  word_id: 693300,
+  word_type: 'KNOWN',
+  word_position: 4,
+  surface_form: '勉強',
+  pos: '名詞',
+  pos_detail_1: 'サ変接続',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: '勉強',
+  reading: 'ベンキョウ',
+  pronunciation: 'ベンキョー'
+}
+{
+  word_id: 3011740,
+  word_type: 'KNOWN',
+  word_position: 6,
+  surface_form: 'する',
+  pos: '動詞',
+  pos_detail_1: '自立',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: 'サ変・スル',
+  conjugated_form: '基本形',
+  basic_form: 'する',
+  reading: 'スル',
+  pronunciation: 'スル'
+}
+{
+  word_id: 2730180,
+  word_type: 'KNOWN',
+  word_position: 1,
+  surface_form: '課題',
+  pos: '名詞',
+  pos_detail_1: '一般',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: '課題',
+  reading: 'カダイ',
+  pronunciation: 'カダイ'
+}
+{
+  word_id: 13670,
+  word_type: 'KNOWN',
+  word_position: 1,
+  surface_form: 'あ',
+  pos: 'フィラー',
+  pos_detail_1: '*',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'あ',
+  reading: 'ア',
+  pronunciation: 'ア'
+}
+{
+  word_id: 34330,
+  word_type: 'KNOWN',
+  word_position: 2,
+  surface_form: 'ああ',
+  pos: '感動詞',
+  pos_detail_1: '*',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'ああ',
+  reading: 'アア',
+  pronunciation: 'アー'
+}
+{
+  word_id: 34330,
+  word_type: 'KNOWN',
+  word_position: 4,
+  surface_form: 'ああ',
+  pos: '感動詞',
+  pos_detail_1: '*',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'ああ',
+  reading: 'アア',
+  pronunciation: 'アー'
+}
+{
+  word_id: 9940,
+  word_type: 'KNOWN',
+  word_position: 1,
+  surface_form: 'これから',
+  pos: '副詞',
+  pos_detail_1: '助詞類接続',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'これから',
+  reading: 'コレカラ',
+  pronunciation: 'コレカラ'
+}
+{
+  word_id: 125770,
+  word_type: 'KNOWN',
+  word_position: 5,
+  surface_form: 'ラーメン',
+  pos: '名詞',
+  pos_detail_1: '一般',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'ラーメン',
+  reading: 'ラーメン',
+  pronunciation: 'ラーメン'
+}
+{
+  word_id: 92880,
+  word_type: 'KNOWN',
+  word_position: 9,
+  surface_form: 'を',
+  pos: '助詞',
+  pos_detail_1: '格助詞',
+  pos_detail_2: '一般',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'を',
+  reading: 'ヲ',
+  pronunciation: 'ヲ'
+}
+{
+  word_id: 3037610,
+  word_type: 'KNOWN',
+  word_position: 10,
+  surface_form: '食べ',
+  pos: '動詞',
+  pos_detail_1: '自立',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '一段',
+  conjugated_form: '連用形',
+  basic_form: '食べる',
+  reading: 'タベ',
+  pronunciation: 'タベ'
+}
+{
+  word_id: 92030,
+  word_type: 'KNOWN',
+  word_position: 12,
+  surface_form: 'に',
+  pos: '助詞',
+  pos_detail_1: '格助詞',
+  pos_detail_2: '一般',
+  pos_detail_3: '*',
+  conjugated_type: '*',
+  conjugated_form: '*',
+  basic_form: 'に',
+  reading: 'ニ',
+  pronunciation: 'ニ'
+}
+{
+  word_id: 3452740,
+  word_type: 'KNOWN',
+  word_position: 13,
+  surface_form: '行こ',
+  pos: '動詞',
+  pos_detail_1: '自立',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '五段・カ行促音便',
+  conjugated_form: '未然ウ接続',
+  basic_form: '行く',
+  reading: 'イコ',
+  pronunciation: 'イコ'
+}
+{
+  word_id: 23650,
+  word_type: 'KNOWN',
+  word_position: 15,
+  surface_form: 'う',
+  pos: '助動詞',
+  pos_detail_1: '*',
+  pos_detail_2: '*',
+  pos_detail_3: '*',
+  conjugated_type: '不変化型',
+  conjugated_form: '基本形',
+  basic_form: 'う',
+  reading: 'ウ',
+  pronunciation: 'ウ'
+}
+{"level":50,"time":1720960455785,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720960455813,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720960455813,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720960456374,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720964115792,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720964115896,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720964115897,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720964116474,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720965167721,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720965167723,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720965167723,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720965168294,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720967775375,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"Error: Redis connection in broken state: connection timeout exceeded.\n    at RedisClient.connection_gone (/Users/irie/Documents/Docker/clarifaibot/node_modules/redis/index.js:588:19)\n    at RedisClient.on_error (/Users/irie/Documents/Docker/clarifaibot/node_modules/redis/index.js:346:10)\n    at Socket.<anonymous> (/Users/irie/Documents/Docker/clarifaibot/node_modules/redis/index.js:223:14)\n    at Socket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)\n"}
+{"level":50,"time":1720967775632,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720967775640,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720967775640,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720967776210,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720971435524,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720971435525,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720971435525,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720971436150,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720975095512,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720975095520,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720975095520,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720975096082,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720978756416,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720978756421,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720978756421,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720978756915,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720981481743,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720981481744,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720981481744,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720981482322,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720982417345,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720982417347,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720982417347,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720982417908,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720986077337,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720986077339,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720986077339,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720986077847,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720987080603,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720987080604,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720987080604,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720987081169,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720989738265,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720989738265,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720989738265,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720989738822,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720992250298,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720992250308,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720992250328,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720992250975,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720993222569,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720993222580,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720993222580,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720993223156,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720996023075,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720996023098,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720996023098,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720996023678,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720997067007,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720997067021,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720997067021,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720997067603,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720998162036,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720998162052,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720998162052,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720998162579,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720999233923,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720999233939,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720999233939,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720999234519,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1720999516041,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1720999516045,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720999516046,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1720999516614,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1721000486918,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1721000486920,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721000486921,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721000487540,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1721000786269,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1721000786277,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721000786277,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721000786871,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1721000955889,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1721000955892,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721000955893,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721000956451,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1721001309891,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-54,"code":"ECONNRESET","syscall":"read"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1721001309903,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1006 Socket Error: read ECONNRESET null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721001309903,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721001310567,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721003134115,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket closed. 1000 Normal connection closure null","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1721003134654,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.direct4b.com"},"p3":"","p4":"","p5":""}
+{"level":50,"time":1721003286562,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.direct4b.com"},"p3":"","p4":"","p5":""}
+{"level":50,"time":1721004398785,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.direct4b.com"},"p3":"","p4":"","p5":""}
+{"level":50,"time":1721004494198,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.direct4b.com"},"p3":"","p4":"","p5":""}
+{"level":50,"time":1721004539231,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.direct4b.com"},"p3":"","p4":"","p5":""}
+{"level":50,"time":1721004596378,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket error. event:","p2":{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.direct4b.com"},"p3":"","p4":"","p5":""}
+{"level":30,"time":1721004642403,"pid":2472,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721458764488,"pid":19168,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":50,"time":1721458764967,"pid":19168,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"Unable to load /Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot: Error: Cannot find module 'clarifai-nodejs-grpc'\nRequire stack:\n- /Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js\n- /Users/irie/Documents/Docker/clarifaibot/node_modules/lisb-hubot/src/robot.js\n- /Users/irie/Documents/Docker/clarifaibot/node_modules/lisb-hubot/es2015.js\n- /Users/irie/Documents/Docker/clarifaibot/node_modules/lisb-hubot/index.js\n- /Users/irie/Documents/Docker/clarifaibot/node_modules/lisb-hubot/bin/hubot.js\n- /Users/irie/Documents/Docker/clarifaibot/node_modules/lisb-hubot/bin/hubot\n    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)\n    at Function.Module._load (node:internal/modules/cjs/loader:873:27)\n    at Module.require (node:internal/modules/cjs/loader:1100:19)\n    at require (node:internal/modules/cjs/helpers:119:18)\n    at Object.<anonymous> (/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js:1:32)\n    at Module._compile (node:internal/modules/cjs/loader:1198:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)\n    at Module.load (/Users/irie/Documents/Docker/clarifaibot/node_modules/coffeescript/lib/coffeescript/register.js:68:36)\n    at Function.Module._load (node:internal/modules/cjs/loader:911:12)\n    at Module.require (node:internal/modules/cjs/loader:1100:19)\n    at require (node:internal/modules/cjs/helpers:119:18)\n    at Robot.loadFile (/Users/irie/Documents/Docker/clarifaibot/node_modules/lisb-hubot/src/robot.js:381:22)\n    at /Users/irie/Documents/Docker/clarifaibot/node_modules/lisb-hubot/src/robot.js:404:52\n    at Array.map (<anonymous>:null:null)\n    at Robot.load (/Users/irie/Documents/Docker/clarifaibot/node_modules/lisb-hubot/src/robot.js:404:35)\n    at Direct.loadScripts (/Users/irie/Documents/Docker/clarifaibot/node_modules/lisb-hubot/bin/hubot.js:103:9)\n    at Object.onceWrapper (node:events:627:28)\n    at Direct.emit (node:events:513:28)\n    at l.<anonymous> (/Users/irie/Documents/Docker/clarifaibot/node_modules/hubot-direct/src/direct.js:156:12)\n    at l.emit (node:events:513:28)\n    at e.DirectAPI.emit (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:3226)\n    at ka.handleNotification (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:379591)\n    at n (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:447183)\n    at Po.notifyObserver (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:446913)\n    at Fo.notifyObservers (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:444356)\n    at b.notifyObservers (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:16423)\n    at b.sendNotification (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:16336)\n    at sa.sendNotification (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:37549)\n    at sa.onNecessaryDataPrepared (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:346380)\n    at n (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:447183)\n    at c (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:254288)\n    at Fr.getUserIdentifiers (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:253029)\n    at /Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:253120\n    at $r.onSuccess (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:253622)\n    at Xr.onMessage (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:332456)\n    at Tr.n [as onmessage] (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:447183)\n    at Tr.onMessage (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:228276)\n    at WebSocketConnection.n (/Users/irie/Documents/Docker/clarifaibot/node_modules/direct-js/lib/direct-node.min.js:1:447183)\n    at WebSocketConnection.emit (node:events:513:28)\n    at WebSocketConnection.processFrame (/Users/irie/Documents/Docker/clarifaibot/node_modules/websocket/lib/WebSocketConnection.js:531:26)\n    at /Users/irie/Documents/Docker/clarifaibot/node_modules/websocket/lib/WebSocketConnection.js:323:40\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)\n"}
+{"level":30,"time":1721458859540,"pid":19381,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721458860677,"pid":19381,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721458860700,"pid":19381,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721459117941,"pid":19866,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721459118497,"pid":19866,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721459118517,"pid":19866,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721459236557,"pid":20061,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721459237158,"pid":20061,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721459237179,"pid":20061,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721459245587,"pid":20088,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721459246090,"pid":20088,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721459246110,"pid":20088,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721460190658,"pid":21615,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721460191165,"pid":21615,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721460191184,"pid":21615,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721460232710,"pid":21682,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721460233303,"pid":21682,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721460233323,"pid":21682,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721460241177,"pid":21705,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721460241689,"pid":21705,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721460241709,"pid":21705,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721460441026,"pid":22101,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721460441636,"pid":22101,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721460441656,"pid":22101,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721460512809,"pid":22224,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721460513324,"pid":22224,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721460513343,"pid":22224,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721460520253,"pid":22250,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721460521307,"pid":22250,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721460521327,"pid":22250,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721461200844,"pid":23344,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721461201359,"pid":23344,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721461201380,"pid":23344,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721461206810,"pid":23363,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721461207915,"pid":23363,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721461207930,"pid":23363,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721461306579,"pid":23527,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721461307115,"pid":23527,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721461307134,"pid":23527,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721461310724,"pid":23546,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721461311900,"pid":23546,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721461311915,"pid":23546,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721461467704,"pid":23805,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721461468296,"pid":23805,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721461468315,"pid":23805,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721461472413,"pid":23822,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721461473654,"pid":23822,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721461473669,"pid":23822,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721461978006,"pid":24681,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721461978633,"pid":24681,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721461978655,"pid":24681,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721461983382,"pid":24703,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721461984504,"pid":24703,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721461984527,"pid":24703,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721462448853,"pid":25457,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721462449511,"pid":25457,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721462449532,"pid":25457,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721462454413,"pid":25479,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721462455705,"pid":25479,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721462455726,"pid":25479,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721466587376,"pid":32390,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721466589136,"pid":32390,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721466589164,"pid":32390,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721466699664,"pid":32578,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721466700185,"pid":32578,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721466700213,"pid":32578,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":30,"time":1721466704484,"pid":32598,"hostname":"ShomanoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1721466705812,"pid":32598,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"/Users/irie/Documents/Docker/clarifaibot/scripts/clarifibot.js is using deprecated documentation syntax"}
+{"level":30,"time":1721466705834,"pid":32598,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
+{"level":50,"time":1721470305672,"pid":32598,"hostname":"ShomanoMacBook-Air.local","name":"Hubot","msg":"Error: Redis connection in broken state: connection timeout exceeded.\n    at RedisClient.connection_gone (/Users/irie/Documents/Docker/clarifaibot/node_modules/redis/index.js:588:19)\n    at RedisClient.on_error (/Users/irie/Documents/Docker/clarifaibot/node_modules/redis/index.js:346:10)\n    at Socket.<anonymous> (/Users/irie/Documents/Docker/clarifaibot/node_modules/redis/index.js:223:14)\n    at Socket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)\n"}
